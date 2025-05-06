@@ -60,28 +60,32 @@ footer {
 
 /* Style for the About Me section */
 #about {
-  background-color: #f8f9fa; /* Soft light background */
-  padding: 2rem;
-  border-radius: 8px;
-  margin: 2rem auto;
+  background-color: #f9f9f9;
+  padding: 60px 40px;
+  margin: 40px auto;
   max-width: 900px;
-  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.7;
+  color: #333;
 }
 
 #about h2 {
   font-size: 2rem;
-  color: #2c3e50;
+  margin-bottom: 20px;
+  color: #1a1a1a;
   text-align: center;
-  margin-bottom: 1.5rem;
-  border-bottom: 2px solid #6c757d;
-  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #ccc;
+  padding-bottom: 10px;
+  max-width: 400px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #about p {
   font-size: 1.1rem;
-  line-height: 1.7;
-  color: #333;
-  margin-bottom: 1rem;
   text-align: justify;
+  margin: 0 auto;
 }
 
