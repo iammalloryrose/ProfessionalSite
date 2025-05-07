@@ -91,3 +91,20 @@ footer {
   margin-bottom: 10px;
 }
 
+@media screen and (max-width: 600px) {
+  #about {
+    padding: 10px 15px;
+    margin-top: 10px;
+    font-size: 0.9em;
+    line-height: 1.6;
+  }
+
+  #about h2 {
+    margin-bottom: 10px;
+  }
+
+  #about p {
+    margin-bottom: 12px;
+  }
+}
+
