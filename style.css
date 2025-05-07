@@ -84,11 +84,12 @@ footer {
   margin-right: auto;
 }
 
-#about p {
-  font-size: 1.rem;
-  text-align: justify;
-  margin: 0 auto;
-  margin-bottom: 10px;
+.about p {
+  margin-bottom: 1em; 
+  font-size: 0.95rem; 
+  line-height: 1.5;    
+  word-spacing: normal; 
+  white-space: normal; 
 }
 
 @media screen and (max-width: 600px) {
